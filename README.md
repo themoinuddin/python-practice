@@ -13,11 +13,11 @@ I practice daily and push code regularly to build consistency.
 ---
 
 ## 📂 Structure
-python-practice/
-├── 01_basics/       # Variables, loops, conditions, functions
-├── 02_oop/           # Classes, objects, inheritance
-├── 03_dsa/           # Data structures & algorithms
-└── 04_problems/      # Problem solving practice
+python-practice/\
+├── 01_basics/       # Variables, loops, conditions, functions\
+├── 02_oop/           # Classes, objects, inheritance\
+├── 03_dsa/           # Data structures & algorithms\
+└── 04_problems/      # Problem solving practice\
 
 ---
 
